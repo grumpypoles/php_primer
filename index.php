@@ -30,5 +30,7 @@
         //Inserting Variable to echo double quotes
         echo "<h1>My Age is: $age </h1>";
     ?>
-    
+    <button type="button" class="btn btn-primary">Primary</button>
+    <button type="button" class="btn btn-secondary">Secondary</button>
+    <button type="button" class="btn btn-success">Success</button> 
     <?php require 'includes/footer.php'?>
